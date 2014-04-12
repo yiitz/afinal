@@ -15,7 +15,7 @@ import org.apache.http.client.entity.UrlEncodedFormEntity;
 import org.apache.http.client.utils.URLEncodedUtils;
 import org.apache.http.message.BasicNameValuePair;
 /**
- * 支持数组参数的ajaxParams
+ * 鏀寔鏁扮粍鍙傛暟鐨刟jaxParams
  */
 public class MultiValueAjaxParams extends AjaxParams{
 
